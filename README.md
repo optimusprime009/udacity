@@ -1,4 +1,5 @@
-Face Recognition
+Face Recognition 
+
 Modern face recognition with deep learning and HOG algorithm.
 
 Find faces in image (HOG Algorithm)
